@@ -1,0 +1,30 @@
+{
+  "name": "f-pipe",
+  "version": "0.0.1",
+  "description": "Ke",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "functional",
+    "pipe",
+    "state",
+    "track",
+    "persistent",
+    "immutable"
+  ],
+  "author": "clitetailor",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clitetailor/f-pipe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clitetailor/f-pipe/issues"
+  },
+  "homepage": "https://github.com/clitetailor/f-pipe#readme"
+}
