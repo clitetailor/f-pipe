@@ -1,6 +1,6 @@
 F-PIPE
 ======
-> - A pipe system for Javascript
+> A pipe system for Javascript
 
 Motivation
 ----------
